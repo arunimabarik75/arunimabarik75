@@ -35,7 +35,7 @@
 </p>
 
 <h3 align="center">Languages and Tools</h3>
-<p style="padding-bottom: 20px;" align="center">
+<p style="padding-bottom: 30px;" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -62,7 +62,7 @@
 <p align="center">
    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunimabarik75&show_icons=true&locale=en&layout=compact" alt="arunimabarik75" />
 
-   &nbsp;<img style="padding-bottom: 30px;" align="right" src="https://github-readme-stats.vercel.app/api?username=arunimabarik75&show_icons=true&locale=en" alt="arunimabarik75" />
+   &nbsp;<img style="padding-bottom: 50px;" align="right" src="https://github-readme-stats.vercel.app/api?username=arunimabarik75&show_icons=true&locale=en" alt="arunimabarik75" />
 </p>
 
 <p align="center">
