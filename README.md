@@ -11,27 +11,27 @@
 
 ###
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">Connect With Me</h3>
 <p align="center">
-  <a href="https://twitter.com/arunima_barik" target="blank">
+  <a href="https://twitter.com/arunima_barik" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/arunima-barik" target="blank">
+  <a href="https://linkedin.com/in/arunima-barik" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://kaggle.com/arunimabarik" target="blank">
+  <a href="https://kaggle.com/arunimabarik" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/arunimabarik" target="blank">
+  <a href="https://www.codechef.com/users/arunimabarik" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/arunimabarik" target="blank">
+  <a href="https://www.hackerrank.com/arunimabarik" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/arunimabarik" target="blank">
+  <a href="https://codeforces.com/profile/arunimabarik" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/arunimabarik" target="blank">
+  <a href="https://www.leetcode.com/arunimabarik" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
@@ -103,6 +103,7 @@
 
 <br clear="both">
 
+<h3 align="center">My GitHub Contributions</h3>
 <img src="https://raw.githubusercontent.com/arunimabarik75/arunimabarik75/output/snake.svg" alt="Snake animation" />
 
 ###
