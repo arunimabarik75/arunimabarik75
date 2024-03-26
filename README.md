@@ -1,13 +1,15 @@
-<h2 align="center">Hi👋! My name is Arunima Barik</h2>
+![image](https://github.com/arunimabarik75/arunimabarik75/assets/86916351/5327957a-f14b-4cd9-aa26-ab67562ea5eb)<h2 align="center">Hi👋! My name is Arunima Barik</h2>
 <h3 align="center">An enthusiastic CSE undergrad with keen interest in Data Structures and Algorithms, Full Stack Development and Data Science</h3>
 
 🔭 I’m currently working on **Full Stack Projects**
 
-🌱 I’m currently learning **Tailwind CSS, React JS and Flask**
+🌱 I’m currently learning **Tailwind CSS, React JS, Chakra UI and Flask**
 
-📫 Send me an email **arunimabarik75@gmail.com**
+📫 Send me an email on **arunimabarik75@gmail.com**
 
 📄 Check out my resume [Link](https://drive.google.com/file/d/1U8PllaW8kW9PURHCj67gb7kD-GmlFlSz/view?usp=sharing)
+
+➡️ Portfolio Website [Link](https://arunima-barik-portfolio.vercel.app/)
 
 ###
 
