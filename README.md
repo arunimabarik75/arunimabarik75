@@ -7,43 +7,44 @@
 
 📫 Send me an email on **arunimabarik75@gmail.com**
 
-📄 Check out my resume [Link](https://drive.google.com/file/d/1U8PllaW8kW9PURHCj67gb7kD-GmlFlSz/view?usp=sharing)
+📄 Check out my [**resume**](https://drive.google.com/file/d/1U8PllaW8kW9PURHCj67gb7kD-GmlFlSz/view?usp=sharing)
 
-➡️ Portfolio Website [Link](https://arunima-barik-portfolio.vercel.app/)
+➡️ Portfolio [**Website**](https://arunima-barik-portfolio.vercel.app/)
 
 ###
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
-  <a href="https://twitter.com/arunima_barik" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+<h3 align="center">Connect with Me</h3>
+<div align="center">
+  <a style="text-decoration: none;" href="https://twitter.com/arunima_barik">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40">
+    </img>
   </a>
-  <a href="https://linkedin.com/in/arunima-barik" target="blank">
+  <a style="text-decoration: none;" href="https://linkedin.com/in/arunima-barik">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://kaggle.com/arunimabarik" target="blank">
+  <a style="text-decoration: none;" href="https://kaggle.com/arunimabarik">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/arunimabarik" target="blank">
+  <a style="text-decoration: none;" href="https://www.codechef.com/users/arunimabarik">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/arunimabarik" target="blank">
+  <a style="text-decoration: none;" href="https://www.hackerrank.com/arunimabarik">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  <a href="https://codeforces.com/profile/arunimabarik" target="blank">
+  <a style="text-decoration: none;" href="https://codeforces.com/profile/arunimabarik">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/arunimabarik" target="blank">
+  <a style="text-decoration: none;" href="https://www.leetcode.com/arunimabarik">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-</p>
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunimabarik75&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=arunimabarik75&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunimabarik75&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=arunimabarik75&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&theme=github&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=arunimabarik75&locale=en&mode=daily&theme=github&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arunimabarik75&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -66,7 +67,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3 logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="38" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="38" alt="tailwindcss logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="38" alt="bootstrap logo"  />
   <img width="10" />
@@ -105,6 +106,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/arunimabarik75/arunimabarik75/output/snake.svg" alt="Snake animation" />
+<h3>Github Contributions</h3>
+<img src="https://raw.githubusercontent.com/arunimabarik75/arunimabarik75/output/github-contribution-grid-snake.svg)" alt="Snake animation" />
 
 ###
