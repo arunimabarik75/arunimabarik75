@@ -15,26 +15,26 @@
 
 <h3 align="center">Connect with Me</h3>
 <div align="center">
-  <a style="text-decoration: none;" href="https://twitter.com/arunima_barik">
+  <a href="https://twitter.com/arunima_barik">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40">
     </img>
   </a>
-  <a style="text-decoration: none;" href="https://linkedin.com/in/arunima-barik">
+  <a href="https://linkedin.com/in/arunima-barik">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a style="text-decoration: none;" href="https://kaggle.com/arunimabarik">
+  <a href="https://kaggle.com/arunimabarik">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
   </a>
-  <a style="text-decoration: none;" href="https://www.codechef.com/users/arunimabarik">
+  <a href="https://www.codechef.com/users/arunimabarik">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>
-  <a style="text-decoration: none;" href="https://www.hackerrank.com/arunimabarik">
+  <a href="https://www.hackerrank.com/arunimabarik">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  <a style="text-decoration: none;" href="https://codeforces.com/profile/arunimabarik">
+  <a href="https://codeforces.com/profile/arunimabarik">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
-  <a style="text-decoration: none;" href="https://www.leetcode.com/arunimabarik">
+  <a href="https://www.leetcode.com/arunimabarik">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </div>
